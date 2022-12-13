@@ -108,7 +108,7 @@ author:
   avatar           : https://avatars.githubusercontent.com/u/107066576?s=400&u=a3a9b363d625a7437c80f5597f024a6e13eed26b&v=4 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "C++ programmer"
   location         : "Spain"
-  email            : "ismael.sajd@gmail.com"
+  email            :
   links:
     - label: "ismael.sajd@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
