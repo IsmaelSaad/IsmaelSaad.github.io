@@ -110,7 +110,7 @@ author:
   location         : "Spain"
   email            : "ismael.sajd@gmail.com"
   links:
-    - label: "Email"
+    - label: "ismael.sajd@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto: ismael.sajd@gmail.com"
     - label: "Website"
